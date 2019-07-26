@@ -8,7 +8,7 @@ jobs:
       - checkout
       - run:
           name: Install package
-          command: apt install pandoc
+          command: apt update && apt install pandoc
       - run:
           name: convert md to html
           command: build.sh
