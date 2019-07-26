@@ -12,6 +12,9 @@ jobs:
       - run:
           name: Install package
           command: apt install -y pandoc git
+      - run:
+          name: ignore ssh error
+          command: mkdir ~/.ssh/ && echo -e "Host github.com\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
       - deploy:
           name: deploy
           command: |
