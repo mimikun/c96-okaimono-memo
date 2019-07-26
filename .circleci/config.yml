@@ -14,5 +14,5 @@ jobs:
           command: apt install -y pandoc
       - run:
           name: convert md to html
-          command: ls
+          command: bash build.sh
 
