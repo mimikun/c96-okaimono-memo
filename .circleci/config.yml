@@ -8,7 +8,7 @@ jobs:
       - checkout
       - run:
           name: Update
-          command: apt update && apt upgrade -y
+          command: apt update
       - run:
           name: Install package
           command: apt install -y pandoc git
