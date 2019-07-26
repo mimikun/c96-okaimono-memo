@@ -9,10 +9,10 @@ fi
 
 git config --global user.name "Circle CI"
 git config --global user.email "<>"
-git checkout gh-pages
 git add -A
 git commit -m "[ci skip] Deploy by CI"
-git remote -v
-git push origin gh-pages:gh-pages
+git fetch origin
+git checkout gh-pages
+git push -f origin gh-pages:gh-pages
 
 echo "Deploy a site!"
