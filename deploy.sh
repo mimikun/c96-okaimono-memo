@@ -12,6 +12,7 @@ git config --global user.email "<>"
 git add -A
 git commit -m "[ci skip] Deploy by CI"
 git remote -v
+git log
 git push origin master:master
 
 echo "Deploy a site!"
