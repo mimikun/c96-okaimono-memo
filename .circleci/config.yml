@@ -11,7 +11,7 @@ jobs:
           command: apt update && apt upgrade -y
       - run:
           name: Install package
-          command: apt install -y pandoc
+          command: apt install -y pandoc git
       - deploy:
           name: deploy
           command: |
