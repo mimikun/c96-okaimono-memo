@@ -15,4 +15,6 @@ jobs:
       - run:
           name: convert md to html
           command: bash build.sh
-
+      - deploy:
+          name: deploy
+          command: cp *.html pages/
