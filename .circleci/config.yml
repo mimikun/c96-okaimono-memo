@@ -1,0 +1,15 @@
+# change build process to circleci
+version: 2
+jobs:
+  build:
+    docker:
+      - image: ubuntu:latest
+    steps:
+      - checkout
+      - run:
+          name: Install package
+          command: apt install pandoc
+      - run:
+          name: convert md to html
+          command: build.sh
+
