@@ -11,7 +11,8 @@ git config --global user.name "Circle CI"
 git config --global user.email "<>"
 git add -A
 git commit -m "[ci skip] Deploy by CI"
-git remote add origin $(git config --get remote.origin.url)
-git push origin master
+git remote -v
+#git remote add origin $(git config --get remote.origin.url)
+#git push origin master
 
 echo "Deploy a site!"
