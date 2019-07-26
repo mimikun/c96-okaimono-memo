@@ -12,7 +12,7 @@ git config --global user.email "<>"
 git add -A
 git commit -m "[ci skip] Deploy by CI"
 git fetch origin
-git checkout gh-pages
+git checkout -b gh-pages
 git push -f origin gh-pages:gh-pages
 
 echo "Deploy a site!"
