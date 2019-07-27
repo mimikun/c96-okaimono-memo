@@ -1,16 +1,68 @@
 # 3日目 8/11 日曜日
 
 - 日曜日 西よ11b 夢幻館 男性向
+  - 愛に死すさん TSF
+  - SNS: null
+  - 新刊:
+    - null
 - 日曜日 西よ09b L.P.E.G. 男性向
+  - まる寝子さん TSF
+  - SNS: https://twitter.com/marneko
+  - 新刊:
+    - null
 - 日曜日 西よ10b はみ部屋 男性向
+  - オリジナルTSF
+  - SNS: https://twitter.com/hamihe1
+  - 新刊:
+    - null
 - 日曜日 西よ07b ワクセイブロ 男性向
+  - オリジナルTSF
+  - SNS: https://twitter.com/The_cupchans
+  - 新刊:
+    - null
 - 日曜日 西よ06b 千変万化式 男性向
+  - オリジナルTSF
+  - SNS: https://twitter.com/DATE_SEN
+  - 新刊:
+    - null
 - 日曜日 西せ15b メルプのお部屋 評論・情報
+  - 文房具のレビュー本
+  - SNS: https://twitter.com/AchiFujimura
+  - 新刊:
+    - null
 - 日曜日 西よ08b ジンギスカンの玉葱は俺の嫁 男性向
+  - 皮モノTSF
+  - SNS: https://twitter.com/taniguti_san
+  - 新刊:
+    - null
 - 日曜日 西Ａ36a BAKAYARO 創作(少年)
+  - 幼なじみ本の人
+  - SNS: https://twitter.com/araidokagiri
+  - 新刊:
+    - null
 - 日曜日 西き07a けるべれす 評論・情報
+  - ミニロト分析
+  - SNS: https://twitter.com/kuroneko_Kberes
+  - 新刊:
+    - null
 - 日曜日 西あ09b 暗黒通信団 評論・情報
-- 日曜日 西Ａ47b ほしまきＰｒｏｊｅｃｔ 創作(少年)
-- 日曜日 西よ08a 中性まふまん♀ 男性向
-- 日曜日 西よ09a ＴＳＦのＦ 男性向
+  - IT系の本
+  - SNS: https://twitter.com/ankokudan
+  - 新刊:
+    - 日常で使うアルゴリズム: 200円
+    - シェルスクリプト入門の入門: 300円
+- 日曜日 西よ08a 中性まふまん♀ 男性向 (**MUST BUY**)
+  - 栗餅ちづるさん TSF
+  - SNS: https://twitter.com/c2tiduru
+  - 新刊:
+    - null
+- 日曜日 西よ09a ＴＳＦのＦ 男性向 (**MUST BUY**)
+  - オリジナルTSF
+  - SNS: https://twitter.com/F_TSF
+  - 新刊:
+    - null
 - 日曜日 西よ10a いそふら 男性向
+  - オリジナルTSF
+  - SNS: https://twitter.com/poriuretan1
+  - 新刊:
+    - null
