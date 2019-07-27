@@ -1,89 +1,288 @@
 # 1日目 8/9 金曜日
 
 - 南シ43b 青閃市場 艦これ
+  - 丼でよく見てるblewさんの本
+  - SNS: https://pawoo.net/@blew
+  - 新刊:
+    - 多生 EPISODE-collide- 第一節: 1000円
+  - 既刊:
+    - 多生 EPISODE -ties-　前編: 500円
+    - 多生 EPISODE -ties-　後編: 500円
+    - 契 KEI ties-memories: 1000円
 - 西Ｒ28b YellowSeed ゲーム（ネット・ソーシャル）
+  - HK416のエロ本
+  - SNS: https://twitter.com/seed_yellow
+  - 新刊:
+    - null
 - 西Ｒ28a blue Stardust ゲーム（ネット・ソーシャル）
+  - HK416の本
+  - SNS: https://twitter.com/blueStardust_
+  - 新刊:
+    - null
 - 西Ａ61a 銀糖製菓 ゲーム（ネット・ソーシャル）
-- 南ク14a うずまきひよこ 艦これ
-- 西Ｌ31b なんでもどうぞ ゲーム（ネット・ソーシャル）
-  - C雪風
-- 西Ｋ24b ありえ～る ゲーム（ネット・ソーシャル）
-  - C雪風
+  - HK416の本
+  - SNS: https://twitter.com/tamazatou
+  - 新刊:
+    - null
 - 南エ21a ユジミ屋 艦これ
+  - ユジミヤさん
+  - SNS: https://twitter.com/yujimiya3
+  - 新刊:
+    - 満潮の本 null円
 - 南セ34a Ｃｒｏｎｏｓ Ｄａｙｓ 艦これ
+  - 艦これACの本
+  - SNS: null
+  - 新刊:
+    - null
 - 南セ33b はなの荘 艦これ
+  - 艦これACの本
+  - SNS: null
+  - 新刊:
+    - null
 - 南セ33a 珍・ＭＥＩＹＯ狼牙団 艦これ
+  - 艦これAC本
+  - SNS: https://twitter.com/ken_mutsuki
+  - 新刊:
+    - null
 - 南シ21a かつうぇる 艦これ
+  - しばふ艦の本
+  - SNS: https://twitter.com/h_k_white
+  - 新刊:
+    - 艦これ漫画手帖1: 500円
 - 南オ35a ねこすたいる 艦これ
+  - 綾波の本
+  - SNS: https://twitter.com/ykirigaya
+  - 新刊:
+    - null
 - 南オ31a サクラソウ庭園 艦これ
+  - 敷波R18本
+  - SNS: https://twitter.com/communis1118
+  - 新刊:
+    - null
 - 南ウ17a ひよっこかぷせる 艦これ
+  - 雪風初風本
+  - SNS: https://twitter.com/piyo557
+  - 新刊:
+    - null
 - 南ウ14b シロクロぱんだ 艦これ
+  - 雪風時津風本
+  - SNS: https://twitter.com/6hakomaster
+  - 新刊:
+    - null
 - 南ア33a 銀のあめ 艦これ
+  - 球磨型, フォーリナー本(FGO)
+  - SNS: https://twitter.com/blaulac
+  - 新刊:
+    - 新刊セット: null円
 - 南ア24b いもほり農場 艦これ
+  - 壱河ふぇーすさん
+  - SNS: https://twitter.com/rinc7600
+  - 新刊:
+    - 艦娘達の日常集10: null円
 - 南ア18b やしろ屋 艦これ
+  - 社ちょさん
+  - SNS: https://twitter.com/yashiro_tyoJ
+  - 新刊:
+    - null
 - 南ア10a ティンクルスター 艦これ
+  - 山城時雨本 絵柄が良さそう
+  - SNS: https://twitter.com/Ruru179
+  - 新刊:
+    - 地獄の果てのその先に(後編): 500円
+    - 恋スル遊ビ島: 500円
 - 南ア09b ばんじます 艦これ
+  - ゴウタさんの時雨本
+  - SNS: https://twitter.com/N_gouta
+  - 新刊:
+    - null
 - 南ア07a Jun&Yuri 艦これ
+  - 絵柄がいい時雨本
+  - SNS: https://twitter.com/junyurijp
+  - 新刊:
+    - 艦これ総集編: null円
 - 南ア06a ととていすと 艦これ
+  - すずきととさん
+  - SNS: https://twitter.com/suzukitoto0323
+  - 新刊:
+    - null
 - 南ア33b 雨洩り宿 艦これ
+  - 空向さん
+  - SNS: https://twitter.com/soramuko
+  - 新刊:
+    - 新刊セット: null円
 - 南タ40b Rainbow Station 艦これ
+  - 艦これグッズサークル
+  - SNS: null
+  - 新刊:
+    - null
 - 南ア25a なぐもカレー部 艦これ
+  - なぐもさんの食べ物本
+  - SNS: https://twitter.com/nagumon
+  - 新刊:
+    - null
 - 南オ34a 半袖少女保護機構 艦これ
+  - 綾波型本
+  - SNS:　https://twitter.com/mesushirinda
+  - 新刊:
+    - null
 - 南エ09a AMBIVALENCE 艦これ
-- 南イ44b ごし喫茶 艦これ
+  - 叢雲の本
+  - SNS: https://twitter.com/tsuyuha
+  - 新刊:
+    - ムラクモグルイ総集編: null円
 - 南タ23b そこそこ幸せな生活 艦これ
+  - さめあんこさん
+  - SNS: https://twitter.com/sameanko
+  - 新刊:
+    - null
 - 南エ29b Magicaltale 艦これ
+  - こまこまさん
+  - SNS: https://twitter.com/komatan
+  - 新刊:
+    - 突如Lv1になってしまった朝潮ちゃん: null円
 - 南オ10a LUCKY DOGGY 艦これ
+  - 海防艦エロ本
+  - SNS: https://twitter.com/masaki_kei
+  - 新刊:
+    - 択捉ちゃんと対馬ちゃんが海防艦の務めを果たしてくれる本: null円
 - 南エ25a ちょこりり 艦これ
+  - 霞本
+  - SNS: https://twitter.com/ChocolilyAimi
+  - 新刊:
+    - null
 - 南ウ14a 焼き鳶 艦これ
+  - 雪風のエロ本
+  - SNS: https://twitter.com/kite121222
+  - 新刊:
+    - null
 - 南ウ16a 景美仙姫巌 艦これ
+  - 台湾の陽々シリーズの人 一応雪風本
+  - SNS: null
+  - 新刊:
+    - null
 - 南ア24a 相原乙女 艦これ
-- 南オ32b グラハム屋 艦これ
+  - にょりこさん
+  - SNS: https://twitter.com/NYORIKO_ymd
+  - 新刊:
+    - null
 - 南オ33b 白黒ぱんだ 艦これ
+  - 綾波敷波本
+  - SNS: https://twitter.com/nononodesuno
+  - 新刊:
+    - null
 - 南オ34b table 艦これ
+  - 綾波本
+  - SNS: https://twitter.com/table_ma2
+  - 新刊:
+    - null
 - 南イ31b トリノスカルテ 艦これ
+  - 夕立本
+  - SNS: https://twitter.com/12_tori
+  - 新刊:
+    - null
 - 南ア47a H’imbus アズールレーン
+  - アズレン綾波本
+  - SNS: https://twitter.com/kotomine_lol
+  - 新刊:
+    - あやなみスキんスキん: 500円
 - 南セ27b ところかわってところざわ 艦これ
+  - 艦これアーケード本
+  - SNS: https://twitter.com/haru_rabaul201
+  - 新刊:
+    - null
 - 南タ09b まみよい 艦これ
+  - 艦これアーケード本
+  - SNS: https://twitter.com/yaruseneko
+  - 新刊:
+    - null
 - 南サ02a 魚類 艦これ
+  - 例の魚の人の本
+  - SNS: null
+  - 新刊:
+    - null
 - 南ア32a ぽんじゆうす？ 艦これ
+  - 曙さんとクソ提督の人
+  - SNS: https://twitter.com/ponjiyuusu
+  - 新刊:
+    - null
 - 南ウ39b 明日はどっちだ！ 艦これ
+  - 長波の本
+  - SNS: https://twitter.com/MikageTakashi
+  - 新刊:
+    - Black鎮守府へようこそ！S3: null円
+    - Black鎮守府へようこそ！11: null円
 - 西Ｎ19a ブレイクスルー ゲーム（ネット・ソーシャル）
-  - 戦艦少女
+  - 戦艦少女本
+  - SNS: https://twitter.com/yakkom
+  - 新刊:
+    - null
 - 西Ｎ21a 中トロ屋。 ゲーム（ネット・ソーシャル）
-  - Nレキシントン
-- 南ウ15b 強行突入 艦これ
-  - C雪風
-- 南シ14b シスリラ 艦これ
-  - C雪風
+  - 戦艦少女 レキシントン新婚初夜本など
+  - SNS: https://twitter.com/mutsuki_hiro02
+  - 新刊:
+    - null
 - 南ケ14b ORE-MAGA団 艦これ
   - 艦これAC
+  - SNS: https://twitter.com/miya78685486
+  - 新刊:
+    - null
 - 南ソ23a 108段パンケーキ 艦これ
-  - C雪風
-- 南セ32a Purewhite Dreadnought 艦これ
+  - null
+  - SNS: null
+  - 新刊:
+    - null
+- 南セ32a Purewhite Dreadnought 艦これ (**MUST BUY**)
   - 艦これAC
+  - SNS: null
+  - 新刊:
+    - null
 - 南ウ13b STEELACT 艦これ
-  - C時津風
-- 南オ21a 水界堂 艦これ
-  - C時津風
+  - 艦これ時津風本
+  - SNS: https://twitter.com/steelact
+  - 新刊:
+    - null
 - 南セ23b ていくふぁい部 艦これ
   - 艦これ税金本
+  - SNS: https://twitter.com/Me_and_Kubo
+  - 新刊:
+    - null
 - 南セ32b ST☆ST 艦これ
   - Starsさん
+  - SNS: https://twitter.com/StarsxStrike
+  - 新刊:
+    - null
 - 南オ14b Moor strom 艦これ
-  - ぬまりんこ(えんりょー)さん
+  - ぬまりんこさん
+  - SNS: https://twitter.com/numarinko_01
+  - 新刊:
+    - null
 - 南タ29b マルサのス 艦これ
-  - C雪風
+  - 艦娘麻雀本
+  - SNS: https://twitter.com/marrusa
+  - 新刊:
+    - null
 - 南セ30b 人間やめてません！ 艦これ
   - みねぐもさん
+  - SNS: https://twitter.com/hata_mine
+  - 新刊:
+    - null
 - 南ウ15a 帝々亭 艦これ
-  - C雪風
+  - 雪風とかの本
+  - SNS: https://twitter.com/teiteimanga
+  - 新刊:
+    - null
 - 南ウ16b マーボーナス 艦これ
-  - C雪風
+  - 初風雪風本
+  - SNS: https://twitter.com/Nassukun
+  - 新刊:
+    - null
 - 南ウ18a 湖畔のみやげ屋 艦これ
   - C雪風、C時津風
+  - SNS: https://twitter.com/kushicanawa
+  - 新刊:
+    - null
 - 南イ02a 曖昧me 艦これ
-  - C雪風, B雪風
-- hoge
-- fuga
-- piyo
+  - こんかい雪風本なさそ？
+  - SNS: https://twitter.com/kou_hiyoyo
+  - 新刊:
+    - null
