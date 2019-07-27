@@ -1,23 +1,64 @@
 # 4日目 8/12 月曜日
 
 - 月曜日 西ね08b 紙ふぶき村 男性向
+  - 磯風エロ本
+  - SNS: https://twitter.com/toine_hoko
+  - 新刊:
+    - null
 - 月曜日 西は04a パノラマ通信局 男性向
+  - 瑠璃ららこさん 艦これ伊26のエロ本
+  - SNS: https://sukebeneko.com/@panorama_box
+  - 新刊:
+    - null
 - 月曜日 西ら05a Xray 男性向
-  - xausさん
-- 月曜日 南リ07b 国際ソブリ協会 同人ソフト
+  - xausさん マルタ(FGO)本
+  - SNS: https://seetake.net/@RaftXaus
+  - 新刊:
+    - null
 - 月曜日 南リ26a きじゃくせい 同人ソフト
+  - セキュリティ関係
+  - SNS: null
+  - 新刊:
+    - null
 - 月曜日 南リ23b 9号研究室 同人ソフト
+  - エクセルVBAの本
+  - SNS: null
+  - 新刊:
+    - Excel VBAだけで開発をさせられるときに読む本: 500円
 - 月曜日 南ナ48a 湊川あいの、わかば家。 同人ソフト
-- 月曜日 南ヤ41b 穴蔵 同人ソフト
+  - マンガでわかるシリーズの人
+  - SNS: https://twitter.com/llminatoll
+  - 新刊:
+    - マンガでわかるRuby: null円
 - 月曜日 南リ38b まぐろのみぞおち 同人ソフト
-- 月曜日 西り25b セニマンカルタン 男性向
+  - PostgreSQLの本
+  - SNS: https://twitter.com/tameguro
+  - 新刊:
+    - null
+  - 既刊:
+    - PostgreSQLから始めるデータベース生活: 2000円
 - 月曜日 西ぬ02b ねでぃありーじょん 男性向
+  - 艦これ霞エロ本
+  - SNS: https://twitter.com/nEdia_R
+  - 新刊:
+    - null
 - 月曜日 南リ31b あきよこブログ 同人ソフト
+  - Django REST Frameworkの本
+  - SNS: https://twitter.com/aki_yok
+  - 新刊:
+    - null
 - 月曜日 西ひ05a るるひなCafe* 男性向
-- 月曜日 西Ｐ46b 毒蠍 男性向
+  - R18アズレン綾波本
+  - SNS: https://twitter.com/ayane_rulu
+  - 新刊:
+    - null
 - 月曜日 西Ｇ02a mikutterの薄い本制作委員会 男性向
   - mikutterの本
-- 月曜日 南ウ17b あさもやけ デジタル(その他)
-  - C雪風
+  - SNS: null
+  - 新刊:
+    - null
 - 月曜日 南リ27a Blowing 同人ソフト
   - 分散SNS萬本
+  - SNS: https://pl.komittee.net/users/kunimi53chi
+  - 新刊:
+    - 分散SNS萬本 vol.1: null円
